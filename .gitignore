@@ -1,3 +1,5 @@
+priceQueryHeroku/
+.vscode/
 venv
 *.pyc
 .DS_Store
