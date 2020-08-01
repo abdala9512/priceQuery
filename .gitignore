@@ -1,4 +1,4 @@
-priceQueryHeroku/
+herokuPriceQuery/
 .vscode/
 venv
 *.pyc
